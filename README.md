@@ -1,5 +1,5 @@
 ### Future is loading
-<span style="display:block;text-align:center">![Imgur](https://i.imgur.com/KGyEmjA.gif)</span>
+<span style="display:block;text-align:center">![Imgur](https://i.imgur.com/vBvTkhT.gif)</span>
 
 
 <!--
