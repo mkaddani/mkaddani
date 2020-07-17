@@ -1,4 +1,4 @@
-﻿![Imgur](https://i.imgur.com/qhg0yMt.gif)
+![Imgur](https://i.imgur.com/qhg0yMt.gif)
 <!--
 **mkaddani/mkaddani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
