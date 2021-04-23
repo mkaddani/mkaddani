@@ -1,4 +1,7 @@
 ### Future is loading
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaddani)](https://github.com/anuraghazra/github-readme-stats)
+
 <span style="display:block;text-align:center">![Imgur](https://i.imgur.com/vBvTkhT.gif)</span>
 
 
